@@ -23,6 +23,6 @@ int main(int argv, char** argc){
 	else{
 		cout << "NULL" << endl;
 	}
-
+	delete() fact;
 return 0;
 }
