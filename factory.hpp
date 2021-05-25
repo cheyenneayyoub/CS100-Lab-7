@@ -123,7 +123,9 @@ class Factory {
           }
 
         }
-        return q2.front();
+	int answer = q2.front();
+	delete() q2;
+	return answer;        
       }
 
 };
