@@ -123,10 +123,8 @@ class Factory {
           }
 
         }
-	int answer = q2.front();
-	delete() q2;
-	return answer;        
-      }
+      		return q2.front();
+	}
 
 };
 
